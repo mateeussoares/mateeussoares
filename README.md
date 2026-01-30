@@ -1,12 +1,13 @@
-# 💻 Mateus Soares
+# 💻 Olá! Me chamo Mateus Soares!
 
 **`Desenvolvedor Backend Java`**
 
 ## Sobre mim
-Me chamo Mateus Soares, tenho 20 anos e sou Recifense.
-Sou estudante de Análise e Desenvolvimento de Sistemas na 
+Tenho 20 anos e sou natural de Recife.
+Atualemte estou no treceiro período do curso de Análise e Desenvolvimento de Sistemas na 
 Faculdade Católica Imaculada Conceição do Recife (FICR) por meio do Embarque Digital.
 
+Sou desenvolvedor Backend com foco na linguagem Java.
 Mesmo tendo foco em desenvolvimento Backend, entendo o suficiente de Frontend para colaborar em projetos.
 
 ### ⚙️ Linguagens e Tecnologias
